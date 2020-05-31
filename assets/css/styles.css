@@ -1,8 +1,8 @@
 /*!   
- * Template Name: jennifer - Responsive Website Template for Developers
+ * Template Name: Ahopu - Responsive Website Template for Developers
  * Version: 1.0
  * Author: Jennifer
- * Website: https://jennifer9.xyz/
+ * Website: https://ahopu.xyz/
 */
 body {
   font-family: 'Lato', arial, sans-serif;
@@ -10,7 +10,7 @@ body {
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background:#f5f5f5;
+  background:#ddd;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -288,8 +288,8 @@ a.dotted-link:hover {
 				color: #fff;
 				font-size: 30px;
 			}
-	a.link.github{
-				background-color: #B3B6B7;
+	a.link.weibo{
+				background-color: #B93E3F;
 				display: inline-block;
 				height: 50px;
 				width: 50px;
@@ -297,8 +297,8 @@ a.dotted-link:hover {
 				color: #fff;
 				font-size: 30px;
 			}
-	a.link.linkedin-in{
-				background-color: #34495E;
+	a.link.renren{
+				background-color: #0071BC;
 				display: inline-block;
 				height: 50px;
 				width: 50px;
@@ -326,4 +326,7 @@ text-shadow: 2px 8px 6px rgba(0,0,0,0.2),
 .portfolio-text{
   color: white;
   text-shadow: 2px 2px 4px #000000;
+}
+.school{
+	font-size:13px;
 }
